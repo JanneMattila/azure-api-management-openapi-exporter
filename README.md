@@ -1,4 +1,4 @@
-# Azure API Management OpenaAPI exporter
+# Azure API Management OpenAPI exporter
 
 Export and merge Open API specs of Azure API Management APIs
 
